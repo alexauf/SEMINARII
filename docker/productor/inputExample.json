@@ -1,0 +1,15 @@
+{
+    "src-name": "COMPUTERNAME1",
+    "dst-name": "COMPUTERNAME2",
+    "ip-version": "ipv4",
+    "src-address": "192.168.123.104",
+    "dst-address": "192.168.123.181",
+    "src-port": 54578,
+    "dst-port": 80,
+    "protocol": "tcp",
+    "tcp-flags": "finsynpshack",
+    "first-switched": 1637147440,
+    "last-switched": 1637147667,
+    "bytes-in": 328056,
+    "pkts-in": 260
+}
